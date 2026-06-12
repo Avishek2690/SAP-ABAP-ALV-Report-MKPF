@@ -217,29 +217,29 @@ This provides:
 
 ## Screenshots
 
+## Screenshots
+
 ### ABAP Program
 
-```markdown
-[ABAP Program](code_alv.png)
-```
+![ABAP Program](code_alv.png)
+
+*Figure 1: Complete SAP ABAP ALV Report implementation including data retrieval, field catalog configuration, ALV event registration, and ALV Grid display.*
 
 ---
 
 ### Selection Screen
 
-```markdown
-[Selection Screen](selection.png)
-```
+![Selection Screen](selection.png)
+
+*Figure 2: Selection screen allowing users to filter Material Documents using the Material Document Number (MBLNR).*
 
 ---
 
 ### ALV Report Output
 
-```markdown
-[ALV Output](output.png)
-```
+![ALV Output](output.png)
 
----
+*Figure 3: ALV Grid displaying Material Document Header data with customized field catalogs, color formatting, hotspot functionality, and report header.*
 
 ## Key Learnings
 
