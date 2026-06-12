@@ -220,7 +220,7 @@ This provides:
 ### ABAP Program
 
 ```markdown
-[ABAP Program](screenshots/code.png)
+[ABAP Program](code_alv.png)
 ```
 
 ---
@@ -228,7 +228,7 @@ This provides:
 ### Selection Screen
 
 ```markdown
-[Selection Screen](screenshots/selection-screen.png)
+[Selection Screen](selection.png)
 ```
 
 ---
@@ -236,7 +236,7 @@ This provides:
 ### ALV Report Output
 
 ```markdown
-[ALV Output](screenshots/output.png)
+[ALV Output](output.png)
 ```
 
 ---
